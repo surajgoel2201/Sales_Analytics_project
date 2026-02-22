@@ -1,0 +1,38 @@
+# Core Data Analysis
+yfinance==0.2.48
+pandas==2.2.3
+numpy==1.26.4
+
+# Visualization
+matplotlib==3.9.3
+seaborn==0.13.2
+plotly==5.24.1
+
+# Data Processing
+scipy==1.14.1
+
+# Jupyter Support
+jupyter==1.1.1
+notebook==7.3.2
+ipywidgets==8.1.5
+
+# Utilities
+python-dateutil==2.9.0
+requests==2.32.3
+
+# Optional: Advanced Analytics
+scikit-learn==1.6.0
+statsmodels==0.14.4
+
+# Database
+# SQLite is built-in to Python, no additional package needed
+# For PostgreSQL support (optional):
+# psycopg2-binary==2.9.10
+# For MySQL support (optional):
+# mysql-connector-python==9.1.0
+sqlalchemy==2.0.36
+
+# Development
+pytest==8.3.4
+black==24.10.0
+flake8==7.1.1
